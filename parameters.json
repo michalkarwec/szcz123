@@ -9,7 +9,7 @@
       "value": "Standard_LRS"
     },
     "appServicePlanName": {
-      "value": "wsbb"
+      "value": "wsbb1"
     },
     "webAppName": {
       "value": "devapp"
